@@ -121,7 +121,3 @@ docker-compose logs -f app
 # Rebuild after code changes
 docker-compose up --build
 ```
-
-## Architecture Decisions
-
-See [ARCHITECTURE.md](./ARCHITECTURE.md) for detailed framework and design decisions.
